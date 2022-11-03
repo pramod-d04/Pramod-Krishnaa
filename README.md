@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pramod Krishnaa</h1>
-<h3 align="center">A passionate software student from India</h3>
+<h3 align="center">A passionate software student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pramod-krishnaa&label=Profile%20views&color=0e75b6&style=flat" alt="pramod-krishnaa" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React, Java, Python**
 
-- 📫 How to reach me **https://wa.me/916374014236/?text="Hi Pramod, Whatsup"**
+- 📫 How to reach me **https://wa.me/916374014236/?text=Hi**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

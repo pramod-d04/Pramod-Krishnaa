@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React, Java, Python**
 
-- 📫 How to reach me **https://wa.me/916374014236/?text=Hi**
+- 📫 How to reach me **pramod.krish2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

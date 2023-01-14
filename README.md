@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pramod-krishnaa&label=Profile%20views&color=0e75b6&style=flat" alt="pramod-krishnaa" /> </p>
 
-- 🌱 I’m currently learning **Flask, NLP**
+- 🌱 I’m currently learning **C#,MongoDB**
 
 - 👨‍💻 All of my projects are available at [GitHub.com/Pramod-Krishnaa](GitHub.com/Pramod-Krishnaa)
 

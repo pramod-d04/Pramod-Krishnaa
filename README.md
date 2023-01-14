@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **pramod.krish2002@gmail.com**
 
-- 👨‍ I love  **Gaming, Teaching, Photography** 
+- 👨‍ I love  **Coding, Gaming, Teaching, Photography** 
 
 
 <h3 align="left">Connect with me:</h3>

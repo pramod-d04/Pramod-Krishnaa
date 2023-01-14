@@ -4,13 +4,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pramod-krishnaa&label=Profile%20views&color=0e75b6&style=flat" alt="pramod-krishnaa" /> </p>
 
-- 🌱 I’m currently learning **C#,MongoDB**
+- 🌱 I’m currently learning **C#, MongoDB**
 
 - 👨‍💻 All of my projects are available at [GitHub.com/Pramod-Krishnaa](GitHub.com/Pramod-Krishnaa)
 
 - 💬 Ask me about **React, Java, Python**
 
 - 📫 How to reach me **pramod.krish2002@gmail.com**
+
+- I love  **Gaming, Teaching, Photography** 
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

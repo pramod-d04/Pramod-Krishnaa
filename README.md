@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pramod Krishnaa(P0469)</h1>
+<h1 align="center">Hi 👋, I'm Pramod Krishnaa</h1>
 <h3 align="center">Software Developer</h3>
 <h5 align="center">Passionate</h5>
 

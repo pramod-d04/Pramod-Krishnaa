@@ -31,6 +31,6 @@
 
 Currently Coding & Listening to:
 
-[!(https://open.spotify.com/user/va2tqzvz3clun5psuagwqh7fc?si=6JZJjB7wQP2z156mRlolZA&utm_source=whatsapp)](https://open.spotify.com/user/11159336621)
+https://open.spotify.com/user/va2tqzvz3clun5psuagwqh7fc?si=6mn6KJ3AQTuEv_z-zwdm5g&utm_source=copy-link
 
 </details>

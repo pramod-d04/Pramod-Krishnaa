@@ -31,6 +31,6 @@
 
 Currently Coding & Listening to:
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31omsshmw27bstgpdshu6deqaiaa&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=31omsshmw27bstgpdshu6deqaiaa&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31omsshmw27bstgpdshu6deqaiaa&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31omsshmw27bstgpdshu6deqaiaa&redirect=true)
 
 </details>

@@ -31,6 +31,6 @@
 
 Currently Coding & Listening to:
 
-https://open.spotify.com/user/va2tqzvz3clun5psuagwqh7fc?si=6mn6KJ3AQTuEv_z-zwdm5g&utm_source=copy-link
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31omsshmw27bstgpdshu6deqaiaa&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=31omsshmw27bstgpdshu6deqaiaa&redirect=true)
 
 </details>

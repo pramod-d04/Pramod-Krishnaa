@@ -5,17 +5,15 @@
 
 - 🔭 I’m currently working on **Expense Tracker**
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [pramodkrishnaa.netlify.app](pramodkrishnaa.netlify.app)
-
-- 📝 I am on the way write articles on [Will be updated soon...](Will be updated soon...)
 
 - 💬 Ask me about **Java, DSA, MERN**
 
 - 📫 How to reach me **pramod.krish2002@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1S7zsHpskXXrdB3lS1G1CWQI2Ipl79g7n/view?usp=drivesdk](https://drive.google.com/file/d/1S7zsHpskXXrdB3lS1G1CWQI2Ipl79g7n/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1S7zsHpskXXrdB3lS1G1CWQI2Ipl79g7n/view?usp=drivesdk](https://drive.google.com/file/d/1UQDLlJyIi0zG11nYBGgr3xSEqI6H4ugj/view?usp=sharing)
 
 - ⚡ Fun fact **Everything can be done with hashmaps**
 

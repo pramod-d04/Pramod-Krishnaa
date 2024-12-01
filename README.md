@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pramod-d04" alt="pramod-d04" /></a> </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pramod-d04&" alt="pramod-d04" /></p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pramod-d04&show_icons=true&locale=en" alt="pramod-d04" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pramod-d04&" alt="pramod-d04" /> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pramod-d04&show_icons=true&locale=en" alt="pramod-d04" /></p>
 
 
 - 🔭 I’m currently working on **Expense Tracker**
